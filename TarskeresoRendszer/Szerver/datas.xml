@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<date user1="teszt_elek" user2="szalmon_ella" subject="vacsora" status="pending"/>
+	<date user1="ultra_viola" user2="trab_antal" subject="mozi" status="accepted"/>
+	<date user1="teszt_elek" user2="trab_antal" subject="séta" status="rejected"/>
+	<date user1="szalmon_ella" user2="trab_antal" subject="főzőcske" status="accepted"/>
+	<date user1="futy_imre" user2="ultra_viola" subject="sz*x" status="pending"/>
+</data>

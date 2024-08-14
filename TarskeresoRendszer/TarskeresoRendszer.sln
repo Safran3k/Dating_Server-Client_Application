@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kliens", "TarskeresoRendszer\Kliens.csproj", "{73762F15-A2FC-487D-8E2A-5646168C800D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szerver", "Szerver\Szerver.csproj", "{587CF809-3EC6-412F-B783-52843C024A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73762F15-A2FC-487D-8E2A-5646168C800D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73762F15-A2FC-487D-8E2A-5646168C800D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73762F15-A2FC-487D-8E2A-5646168C800D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73762F15-A2FC-487D-8E2A-5646168C800D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587CF809-3EC6-412F-B783-52843C024A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587CF809-3EC6-412F-B783-52843C024A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587CF809-3EC6-412F-B783-52843C024A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587CF809-3EC6-412F-B783-52843C024A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C69850-0DA1-448B-863A-DF36906B8A15}
+	EndGlobalSection
+EndGlobal

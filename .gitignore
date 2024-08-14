@@ -1,0 +1,48 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider specific
+.idea/
+
+# Auto-generated files
+Generated\ Files/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Web App 
+app.publish/
+app.publish.temp/
+
+# DotNet
+bin/
+obj/
+out/
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+
+# Debug and Release Folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Logs
+*.log
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
